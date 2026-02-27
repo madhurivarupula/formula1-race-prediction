@@ -57,14 +57,8 @@ Key outcome:
 ## Files
 - Report deck (PDF): [formula1_race_prediction.pdf](docs/formula1_race_prediction.pdf)
 
-## How to Reproduce (Optional)
-If you later add code/notebook:
-- Add a `/notebooks` folder (or `/src`)
-- Include `requirements.txt`
-- Document steps to run training + evaluation
 
 ## Tools
 Python, scikit-learn (models + evaluation), data preprocessing, ROC/AUC analysis, visualization
 
-## Notes
-Two versions of the target and correlation visuals are included (`02` vs `022`, `04` vs `044`) to show alternative encodings/definitions used during experimentation.
+
